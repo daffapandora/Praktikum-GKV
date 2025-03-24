@@ -1,3 +1,6 @@
+//Daffa Pandora El-farisin
+//24060123140185
+
 #include <GL/glut.h>
 #include <cmath>
 #include <cstdlib>
